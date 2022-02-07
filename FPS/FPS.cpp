@@ -1,3 +1,7 @@
+// This was a tutorial lifted from this cool guy:
+// Author: One Lone Coder - Channel: https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA
+// YouTube: https://www.youtube.com/watch?v=xW8skO7MFYw&list=TLPQMDUwMjIwMjKMa7wqFF0mhA&index=8
+// Github: https://github.com/OneLoneCoder/CommandLineFPS/blob/master/CommandLineFPS.cpp
 #include <Windows.h>
 #include <string>
 #include <chrono>
