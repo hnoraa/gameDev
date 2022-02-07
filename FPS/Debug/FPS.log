@@ -1,0 +1,6 @@
+﻿  FPS.cpp
+C:\Users\horeth\Code\Local\FPS\FPS\FPS.cpp(23,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\horeth\Code\Local\FPS\FPS\FPS.cpp(204,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\horeth\Code\Local\FPS\FPS\FPS.cpp(217,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\horeth\Code\Local\FPS\FPS\FPS.cpp(233,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FPS.vcxproj -> C:\Users\horeth\Code\Local\FPS\FPS\Debug\FPS.exe
